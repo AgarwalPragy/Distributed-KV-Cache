@@ -123,7 +123,7 @@ Your implementation makes simplifying assumptions (all nodes always up, no
 failures, static config). In this section, explain how you would handle 
 the harder problems, or how production systems like Redis Cluster solve them.
 
-Pick **ANY THREE** of the following topics and write 1-2 paragraphs each:
+Pick **ANY THREE** of the following topics and write 2-3 paragraphs each:
 
 #### 1. Failure Detection
 How would you detect that a node has crashed or become unreachable? 
