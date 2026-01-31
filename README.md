@@ -1,7 +1,7 @@
 # Final Project: Distributed KV-Cache with Sharding & Replication
 
 - **Release Date:** 25th January, 2026
-- **Due Date:** `11:59 PM`, 1st February, 2026
+- **Due Date:** `11:59 PM`, ~31st January~ 1st February, 2026
 - **Total Points:** 100
 
 ***Note:** The final project is a strict extension to the [2nd assignment: **kv-cache**](https://github.com/AgarwalPragy/kv-cache). You MUST complete the 2nd assignment before you approach the final project.*
@@ -214,7 +214,7 @@ To keep scope manageable, you do **NOT** need to implement:
 ### Submission Process
 1. Push `final-project-submission` branch in the **same repository as assignment-2**
 2. Submit via form: https://forms.gle/kCNWSnXtYCx7MrcJ7
-3. **Due:** `11:59 PM`, 31st Jan, 2026
+3. **Due:** `11:59 PM`, ~31st January~ 1st February, 2026
 
 ### Required Files
 - All source code in `final-project-submission` branch
